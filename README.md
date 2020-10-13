@@ -1,2 +1,2 @@
 # Moop
-A simple discord.py music bot hand-built.
+A simple hand-built discord.py music bot.
